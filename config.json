@@ -1,16 +1,16 @@
 {
-  "token": "",
-  "secret": "",
-  "id": "",
+  "token": "MTQ5Nzg4OTk0NDgyNjU0NDIyOQ.Gs1OsV.xObndGUBrPQuguS1J7p7gCrJm8hHLeYp9U3XvM",
+  "secret": "xkYcmyVYjwitKGlQ_gc8VxK0ADyLGojV",
+  "id": "1497889944826544229",
   "redirect": "http://127.0.0.1:8000/callback",
   "api_endpoint": "https://discord.com/api/v10",
   "logs": [
     "",
     ""
   ],
-  "owner_id": "",
-  "canal_invitar_bot": "",
-  "canal_verificar": "",
-  "canal_miembros": "",
-  "canal_general": ""
+  "owner_id": "1335576767473254400",
+  "canal_invitar_bot": "1497890819636465674",
+  "canal_verificar": "1497890910472507422",
+  "canal_miembros": "1497890981046124544",
+  "canal_general": "1497885211806138451"
 }
